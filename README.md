@@ -21,8 +21,9 @@ How it works
 
 - Import ESzabbix_templates.xml to zabbix server
 
-- requires 'pyes' to run this script
-	pip install elasticsearch
+- requires 'pyes' to run this script:
+	`pip install pyes` 
+	`pip install elasticsearch` 
 
 Specs
 =====
